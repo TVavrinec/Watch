@@ -28,3 +28,4 @@ fp-info-cache
 *.xml
 *.csv
 hw/Watch/#auto_saved_files#
+hw/Watch/~Watch.kicad_pcb.lck
