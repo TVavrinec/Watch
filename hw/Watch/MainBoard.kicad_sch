@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid b226caaf-e3c8-4a44-8ed8-8cc1b6404828)
+  (uuid 12e7c6ad-34a9-431d-920c-248fe991658a)
 
   (paper "A4")
 
@@ -723,13 +723,13 @@
     (property "Value" "Buzzer" (at 60.96 99.06 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "RKL-StandardPackages:PKLCS1212E-(RH-Logic_piezzo)" (at 61.595 101.6 90)
+    (property "Footprint" "RKL-Audio:SmallBuzzer" (at 61.595 101.6 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 61.595 101.6 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C113159" (at 60.96 104.14 0)
+    (property "LCSC" "C255307" (at 60.96 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Basic/Extended" "E" (at 60.96 104.14 0)
