@@ -830,7 +830,7 @@
     (property "Footprint" "RKL-Connectors:USB-C_vertical" (at 115.57 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (at 115.57 78.74 0)
+    (property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2101261738_G-Switch-GT-USB-7055_C2686963.pdf" (at 115.57 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Basic/Extended" "E" (at 111.76 78.74 0)

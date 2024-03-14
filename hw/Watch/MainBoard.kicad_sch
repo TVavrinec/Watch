@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid fa1bd854-f8a7-4c3c-823f-40aa090ce3cd)
+  (uuid 3bf91fc5-7c57-4d69-aa73-b7f267faeb84)
 
   (paper "A4")
 
@@ -518,7 +518,7 @@
     (property "Footprint" "RKL-Audio:SmallBuzzer" (at 61.595 101.6 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 61.595 101.6 90)
+    (property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1810191428_INGHAi-GSC4317YA-16R4000_C255307.pdf" (at 61.595 101.6 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "LCSC" "C255307" (at 60.96 104.14 0)

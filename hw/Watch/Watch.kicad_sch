@@ -355,6 +355,23 @@
     (uuid 951e37ae-b592-4ba6-b091-8d85fc602786)
   )
 
+  (label "L1B" (at 107.95 88.9 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 01c4ab79-683a-442f-b86a-2de67377ae16)
+  )
+  (label "L1A" (at 107.95 86.36 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid d83c1c34-2225-4ea3-a90c-d8a3e12dbddd)
+  )
+  (label "L2A" (at 107.95 91.44 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid e1559e4a-5625-47b2-b018-1eb278f317df)
+  )
+  (label "L2B" (at 107.95 93.98 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid e7ade2ab-2e40-40ef-918f-c2abd1e55e43)
+  )
+
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 124.46 88.9 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 21f79263-77ea-4e78-b247-b97785c548ca)
@@ -386,7 +403,7 @@
   (symbol (lib_id "Device:L") (at 99.06 82.55 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3a87311b-1434-460c-b81d-042552ccd916)
-    (property "Reference" "L3" (at 100.33 83.82 0)
+    (property "Reference" "L1" (at 100.33 83.82 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "L" (at 100.33 81.28 0)
@@ -406,7 +423,7 @@
     (instances
       (project "Watch"
         (path "/1db6f6a7-b341-422f-8dcc-b4fd8e3ba0c0"
-          (reference "L3") (unit 1)
+          (reference "L1") (unit 1)
         )
       )
       (project "ZakladniElektronika"

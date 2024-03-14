@@ -1071,7 +1071,7 @@
   (symbol (lib_id "Device:L") (at 166.37 68.58 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 819248fd-414f-4b90-b468-96e16a9ef12c)
-    (property "Reference" "L1" (at 166.37 66.04 90)
+    (property "Reference" "L3" (at 166.37 66.04 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2.2u" (at 166.37 69.85 90)
@@ -1094,7 +1094,7 @@
     (instances
       (project "Watch"
         (path "/1db6f6a7-b341-422f-8dcc-b4fd8e3ba0c0/7a0b441f-fb08-4406-ad74-ba91736d76e3/e51762e8-40da-4e3a-afe4-857a6428bc26/6f1fd0d6-76d4-4e62-b397-b40d00c396e2"
-          (reference "L1") (unit 1)
+          (reference "L3") (unit 1)
         )
       )
       (project "ZakladniElektronika"
