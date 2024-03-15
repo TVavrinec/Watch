@@ -33,3 +33,4 @@ hw/Watch/~_autosave-Watch.kicad_pcb.lck
 hw/Watch/replicate_layout.log
 hw/Watch/Watch.round-tracks-config
 hw/Watch/~Watch.kicad_sch.lck
+*.step
